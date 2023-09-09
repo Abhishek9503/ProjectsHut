@@ -1965,5 +1965,23 @@
         "tech": ["ReactJs", "CSS"]
       }
     ]
+  },
+   {
+     "github_username": "Abhishek9503",
+     "Social_media": {
+       "gitHub": "https://github.com/Abhishek9503",
+       "LinkedIn": "https://www.linkedin.com/in/abhishek-yadav17/",
+       "Instagram": "https://www.instagram.com/abhishek__yadav17_/",
+       "YouTube": "https://www.youtube.com/@hardiktecvlogs6630",
+       "Twitter": "https://twitter.com/Abhishe9503"
+    },
+    "Projects": [
+      {
+        "link": "https://github.com/Abhishek9503/My-ProtFolio",
+        "title": "3d-Portfolio",
+        "description": "I Have Build and Deployed this Fantastic 3D Portfolio Website with Three.js and React.js",
+        "tech": ["ReactJs", "ThreeJs","Tailwind"]
+      }
+    ]
   }
 ]
